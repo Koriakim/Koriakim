@@ -6,14 +6,6 @@
 -  Estou me desenvolvendo como Assistente de Dados na empresa Gr Parceria onde trabalho atualmente.
 -  O meu objetivo é alcançar a expecialização em engenharia de dados.
 
-
-
-### Estou Aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-
-
-
 ### Contatos:
 
 <div>
