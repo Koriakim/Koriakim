@@ -2,14 +2,15 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-- 🌱 Atualmente estou aprendendo Python, MySQL e PostgreSQL
-- 🤔 Estou procurando ajuda com Python.
+- 🌱 Atualmente estou aprendendo Python, MySQL, e Power B.I.
+-  Estou me desenvolvendo como Assistente de Dados na empresa Gr Parceria onde trabalho atualmente.
+-  O meu objetivo é alcançar a expecialização em engenharia de dados.
 
 
 
 ### Estou Aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
 
 
 
